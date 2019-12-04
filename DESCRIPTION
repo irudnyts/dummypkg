@@ -12,3 +12,5 @@ LazyData: true
 RoxygenNote: 6.1.1
 Additional_repositories: https://github.com/SMAC-Group/ptdspkg
 Suggests: ptdspkg
+Imports: shiny,
+    ggplot2
