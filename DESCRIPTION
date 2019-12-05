@@ -10,7 +10,7 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Additional_repositories: https://github.com/SMAC-Group/ptdspkg
+Remotes: SMAC-Group/ptdspkg
 Suggests: ptdspkg
 Imports: shiny,
     ggplot2
